@@ -68,5 +68,15 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+---
+
+## 🌐 Acesse o Dashboard Online
+
+O projeto está disponível publicamente no **Streamlit Cloud**.  
+Clique no link abaixo para abrir o dashboard interativo:
+
+👉 [Abrir Dashboard](https://projetololds-b2zyydnev92prpmjc3f5vf.streamlit.app)
+
+---
 
 
